@@ -2,8 +2,13 @@
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sourabh Jangid</h1>
-<h3 align="center">A passionate Data Analytics student from Parul University</h3>
+<h1 align="center"># Hi 👋, I'm Sourabh Jangid
+
+🚀 Aspiring Data Scientist  
+💻 C++ DSA Enthusiast  
+📊 Machine Learning & Data Modeling  
+🐍 Python | SQL | NoSql</h1>
+<h3 align="center">A passionate Data Scientist student from Parul University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sourabh253&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh253" />
@@ -13,10 +18,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Working on **Data Analytics & Big Data Projects**  
-- 🌱 Currently learning **Python, R, SQL, Machine Learning**  
-- 🎓 Pursuing **B.Tech CSE (Big Data Analytics)** at *Parul University*  
-- 📊 Interested in **Data Visualization, Data Preprocessing, and Predictive Modeling**  
+- 🔭 Working on **Data science &  also covering data analyst**  
+- 🌱 Currently learning **Python, SQL, Nosql, Machine Learning**  
+- 🎓 Pursuing **B.Tech CSE (Data Science)** at *Parul University*  
+- 📊 Interested in **Data modeling, model training, decision tree**  
 - 📫 Reach me at: **sourabhjangid253@gmail.com**  
 - ⚡ Fun fact: I love turning messy data into meaningful insights 📈  
 
@@ -42,8 +47,13 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
+   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ---
